@@ -9,5 +9,7 @@ class NeuralNetworkAnimation(Scene):
         for i in range(len(inputNeuronList)):
             inputNeuronList[i].shift(DOWN * i)
             self.play(Create(inputNeuronList[i]))
+# you can edit code in github repositorys though github directly         
+
 
             
