@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class NetMaker {
+	//outdated
 //	good - needs to have a data gathering method/class
 	public static void main(String[] args) {
 		ArrayList<Double> data = new ArrayList<Double>();
